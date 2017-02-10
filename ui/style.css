@@ -9,14 +9,14 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 200%;
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .img-medium {
-    height: 200px;
+    height: 100px;
 }
 
